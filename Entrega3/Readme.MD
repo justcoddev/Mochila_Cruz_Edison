@@ -3,4 +3,4 @@
 ## Grupo 10
 
 
-![Design](tarea3.jpg.png)
+![Design](tarea3.jpg)
